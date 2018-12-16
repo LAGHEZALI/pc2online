@@ -1,0 +1,28 @@
+CSUS Programming Contest System
+Date: Sunday, December 16, 2018 11:59:38 AM GMT+01:00
+Version 9.5.3 () Java ver 1.8.0_191 build 4653 Windows 10 10.0 (amd64) 
+
+Contest XML Report
+-- Start XML --
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<contest>
+  <version builddate="" fullversion="9.5.3" major="9" minor="5" pc2build="4653" subminor="3" system="CSUS Programming Contest System" url="http://pc2.ecs.csus.edu/" version="9.5.3"/>
+  <fileinfo date="2018-12-16 11:59.38.081" fulldate="Sun December 16, 2018 11:59:38.081 GMT+01:00" version="Version 9.5.3 () Java ver 1.8.0_191 build 4653 Windows 10 10.0 (amd64) "/>
+  <settings>
+    <properties_information maxFileSize="512000" teamDisplayMode="LOGIN_NAME_ONLY">
+      <scoring_properties/>
+    </properties_information>
+  </settings>
+  <contest_information title="Programming Contest"/>
+  <site IP_KEY="localhost" PORT_KEY="50002" name="Site 1" number="1" password="site1" pc2id="Site 1-4495815171721898458"/>
+  <contest_time conestLengthMins="300" contestLengthStr="5:00:00" contestRunning="false" elapsedTimeStr="0:00:00" haltContestAtTimeZero="false" remainingSecs="18000" remainingTimeStr="5:00:00" siteNumber="1"/>
+  <problem active="true" computerJudged="false" manualReview="false" name="General" pc2id="General--3656029719999238282" timeoutSecond="30"/>
+  <account allowlogin="true" name="administrator1" number="1" password="administrator1" pc2triplet="1ADMINISTRATOR1" showonscoreboard="false" site="1" type="ADMINISTRATOR"/>
+  <ballonlist/>
+  <profiles contestid="Default--9063680794194319444" currentprofile="true" description="Default Contest" name="Default" path="profiles\P9f75354b-fca9-4a18-abe7-9d2bbb68837e" pc2id="Default--1144997853889074152"/>
+</contest>
+
+
+-- End XML --
+
+end report

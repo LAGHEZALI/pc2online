@@ -1,0 +1,33 @@
+CSUS Programming Contest System
+Date: Sunday, December 16, 2018 11:59:38 AM GMT+01:00
+Version 9.5.3 () Java ver 1.8.0_191 build 4653 Windows 10 10.0 (amd64) 
+
+Standings Web Pages Report
+
+Contest date/time: never started
+Wrote file profiles\P9f75354b-fca9-4a18-abe7-9d2bbb68837e\reports\report.Standings_Web_Pages.full.12.16.240.html
+  based on full.xsl
+
+Wrote file profiles\P9f75354b-fca9-4a18-abe7-9d2bbb68837e\reports\report.Standings_Web_Pages.fullnums.12.16.259.html
+  based on fullnums.xsl
+
+Wrote file profiles\P9f75354b-fca9-4a18-abe7-9d2bbb68837e\reports\report.Standings_Web_Pages.index.12.16.300.html
+  based on index.xsl
+
+Wrote file profiles\P9f75354b-fca9-4a18-abe7-9d2bbb68837e\reports\report.Standings_Web_Pages.iScoreBoard.php.12.16.317.html
+  based on iScoreBoard.php.xsl
+
+Wrote file profiles\P9f75354b-fca9-4a18-abe7-9d2bbb68837e\reports\report.Standings_Web_Pages.pc2export.12.16.326.html
+  based on pc2export.xsl
+
+Wrote file profiles\P9f75354b-fca9-4a18-abe7-9d2bbb68837e\reports\report.Standings_Web_Pages.sumatt.12.16.345.html
+  based on sumatt.xsl
+
+Wrote file profiles\P9f75354b-fca9-4a18-abe7-9d2bbb68837e\reports\report.Standings_Web_Pages.summary.12.16.371.html
+  based on summary.xsl
+
+Wrote file profiles\P9f75354b-fca9-4a18-abe7-9d2bbb68837e\reports\report.Standings_Web_Pages.sumtime.12.16.388.html
+  based on sumtime.xsl
+
+
+end report

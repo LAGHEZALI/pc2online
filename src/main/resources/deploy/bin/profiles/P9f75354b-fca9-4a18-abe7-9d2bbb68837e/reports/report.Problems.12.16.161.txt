@@ -1,0 +1,18 @@
+CSUS Programming Contest System
+Date: Sunday, December 16, 2018 11:59:38 AM GMT+01:00
+Version 9.5.3 () Java ver 1.8.0_191 build 4653 Windows 10 10.0 (amd64) 
+
+Problems Report
+
+Contest date/time: never started
+
+-- 0 problems --
+
+  Location for Judges CDP / problem config : ''
+  Location for  Admin CDP / problem config : ''
+
+-- 0 problem data file sets --
+ Categories:
+  General
+
+end report

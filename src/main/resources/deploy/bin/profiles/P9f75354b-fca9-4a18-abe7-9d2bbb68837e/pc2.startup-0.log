@@ -1,0 +1,5 @@
+181216 115835.655|CONFIG|main|setFileHandlers|Now logging to D:\DevTools\pc2-9.5.3\deploy\pc2-online\bin\profiles\P9f75354b-fca9-4a18-abe7-9d2bbb68837e directory.
+181216 115835.656|INFO|main|info|
+181216 115835.656|INFO|main|info|Version 9.5.3 () Java ver 1.8.0_191 build 4653 Windows 10 10.0 (amd64) 
+181216 115835.656|INFO|main|startLog|Working directory is D:\DevTools\pc2-9.5.3\deploy\pc2-online\bin
+181216 115835.657|INFO|main|startLog|Process id is 4172@SAYAJIN

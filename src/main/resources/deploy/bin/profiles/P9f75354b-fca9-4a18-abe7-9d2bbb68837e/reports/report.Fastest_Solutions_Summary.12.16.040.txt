@@ -1,0 +1,11 @@
+CSUS Programming Contest System
+Date: Sunday, December 16, 2018 11:59:38 AM GMT+01:00
+Version 9.5.3 () Java ver 1.8.0_191 build 4653 Windows 10 10.0 (amd64) 
+
+Fastest Solutions Summary Report
+
+There are 0 runs.
+
+No problems defined, nothing to report
+
+end report

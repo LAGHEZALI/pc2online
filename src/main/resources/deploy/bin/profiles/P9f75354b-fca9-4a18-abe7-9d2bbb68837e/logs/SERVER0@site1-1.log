@@ -1,0 +1,11 @@
+181216 115930.635|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to D:\DevTools\pc2-9.5.3\deploy\pc2-online\bin\profiles\P9f75354b-fca9-4a18-abe7-9d2bbb68837e\logs directory.
+181216 115930.635|INFO|AWT-EventQueue-0|info|
+181216 115930.635|INFO|AWT-EventQueue-0|info|Version 9.5.3 () Java ver 1.8.0_191 build 4653 Windows 10 10.0 (amd64) 
+181216 115930.635|INFO|AWT-EventQueue-0|info|Login: server0 (aka server0)
+181216 115930.636|INFO|AWT-EventQueue-0|startLog|Working directory is D:\DevTools\pc2-9.5.3\deploy\pc2-online\bin
+181216 115930.636|INFO|AWT-EventQueue-0|startLog|Process id is 4172@SAYAJIN
+181216 115930.636|INFO|AWT-EventQueue-0|info|Attempting to load UI class edu.csus.ecs.pc2.ui.server.ServerView
+181216 115930.656|INFO|AWT-EventQueue-0|info|Loaded UI class edu.csus.ecs.pc2.ui.server.ServerView
+181216 115930.767|INFO|AWT-EventQueue-0|info|Using Profile: Default @ profiles\P9f75354b-fca9-4a18-abe7-9d2bbb68837e
+181216 115938.442|INFO|AWT-EventQueue-0|promptAndExit|Reports Generated to profiles\P9f75354b-fca9-4a18-abe7-9d2bbb68837e\reports
+181216 115938.444|INFO|AWT-EventQueue-0|promptAndExit|Server 1 halted

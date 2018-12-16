@@ -1,0 +1,23 @@
+CSUS Programming Contest System
+Date: Sunday, December 16, 2018 11:59:38 AM GMT+01:00
+Version 9.5.3 () Java ver 1.8.0_191 build 4653 Windows 10 10.0 (amd64) 
+
+Contest Analysis Report
+
+Contest Title: Programming Contest
+
+1 sites.
+ 1 Site 1             0 runs ( 0 unjudged,  0 deleted)   0 clars, 0 to All ( 0 unanswered,  0 deleted)
+   Total              0 runs ( 0 unjudged,  0 deleted)   0 clars, 0 to All ( 0 unanswered,  0 deleted)
+
+There are NO unanswered clars
+There are NO unjudged runs
+
+Runs after first Yes 
+There are NO 'Yes' judgements after earlier Yes judgements
+There are NO 'No' judgements after earlier Yes judgements
+
+Runs submitted by Teams not shown on scoreboard/standings
+
+
+end report

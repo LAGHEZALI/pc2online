@@ -1,0 +1,26 @@
+CSUS Programming Contest System
+Date: Sunday, December 16, 2018 11:59:38 AM GMT+01:00
+Version 9.5.3 () Java ver 1.8.0_191 build 4653 Windows 10 10.0 (amd64) 
+Build 4653
+
+-- Contest Information --
+  Title : 'Programming Contest'
+  URL   : 'null'
+
+  C.C.S. Test Mode                                    : No
+  Auto-registration enabled                           : No
+  Include Preliminary Judgements in Scoring Algorithm : No
+  Send Notifications for Preliminary Judgements       : No
+  Send Additional Run Status Information              : No
+
+  Judges' Default Answer: 'No response, read problem statement'
+  Judges see: LOGIN_NAME_ONLY
+
+  Scoring Properties, there are 5 keys
+     Base Points per Yes='0'
+     Points per Compilation Error='0'
+     Points per Minute (for 1st yes)='1'
+     Points per No='20'
+     Points per Security Violation='0'
+
+end report

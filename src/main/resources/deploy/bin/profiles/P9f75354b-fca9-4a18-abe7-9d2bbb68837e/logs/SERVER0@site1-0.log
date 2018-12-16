@@ -1,0 +1,17 @@
+181216 115842.284|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to D:\DevTools\pc2-9.5.3\deploy\pc2-online\bin\profiles\P9f75354b-fca9-4a18-abe7-9d2bbb68837e\logs directory.
+181216 115842.285|INFO|AWT-EventQueue-0|info|
+181216 115842.285|INFO|AWT-EventQueue-0|info|Version 9.5.3 () Java ver 1.8.0_191 build 4653 Windows 10 10.0 (amd64) 
+181216 115842.285|INFO|AWT-EventQueue-0|info|Login: site1 (aka server0)
+181216 115842.285|INFO|AWT-EventQueue-0|startLog|Working directory is D:\DevTools\pc2-9.5.3\deploy\pc2-online\bin
+181216 115842.286|INFO|AWT-EventQueue-0|startLog|Process id is 4172@SAYAJIN
+181216 115842.286|DEBUG|AWT-EventQueue-0|login|Site Number is set as 1 (0 means unset)
+181216 115842.287|INFO|AWT-EventQueue-0|info|initializeServer STARTED this site as Site 1
+181216 115930.580|INFO|AWT-EventQueue-0|initializeServer|initializing controller with default settings
+181216 115930.585|INFO|AWT-EventQueue-0|info|reject.ini not found.  Loading default judgements
+181216 115930.589|INFO|AWT-EventQueue-0|info|initialized controller Site 1
+181216 115930.590|INFO|AWT-EventQueue-0|info|No auto start.  Date = null set to start false
+181216 115930.627|INFO|AWT-EventQueue-0|info|evals.log is opened at profiles\P9f75354b-fca9-4a18-abe7-9d2bbb68837e\logs
+181216 115930.628|INFO|AWT-EventQueue-0|updateAutoStartInformation|Created AutoStarter...
+181216 115930.628|INFO|AWT-EventQueue-0|updateAutoStartInformation|updated AutoStarter with date null (note: null means no scheduled start is set)
+181216 115930.629|INFO|AWT-EventQueue-0|accecptConnections|accecptConnections on port:50002
+181216 115930.632|INFO|AWT-EventQueue-0|info|Started Server Transport listening on 50002
